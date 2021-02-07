@@ -1,0 +1,622 @@
+/*Extra x small devices (portrait phones, less than 374px)*/
+@media only screen and (max-width: 374px) {
+
+    #top-header-area,
+    .footer-menu {
+        display: none;
+    }
+
+    #slick-slider-area .slider-text h2 {
+        font-size: 12px;
+        padding-top: 20px;
+    }
+
+    #slick-slider-area .slider-text p {
+        font-size: 8px;
+        margin: 0;
+    }
+
+    #slick-slider-area .slider-text button {
+        margin: 8px;
+        width: 40%;
+        height: 30%;
+        font-size: 12px;
+    }
+
+    #slick-slider-area .left-angle1 {
+        top: 43%;
+        left: 10px;
+        font-size: 20px;
+        width: 25px;
+        height: 25px;
+        text-align: center;
+        line-height: 25px;
+    }
+
+    #slick-slider-area .right-angle1 {
+        top: 43%;
+        right: 10px;
+        font-size: 20px;
+        width: 25px;
+        height: 25px;
+        text-align: center;
+        line-height: 25px;
+    }
+
+    #testimonial-area p {
+        font-size: 14px;
+    }
+
+    #featured-area .child-featured-area {
+        width: 100%;
+    }
+
+    #featured-area .child-featured-area:hover .left-featured i {
+        color: #ffffff;
+        background: #df4a43;
+    }
+
+    #footer-area {
+        padding-bottom: 20px;
+    }
+
+    #footer-area .col-md-3 {
+        margin-bottom: 20px;
+    }
+
+    #copyright-area p {
+        font-size: 11px;
+    }
+
+}
+
+/*  small devices (portrait phones, less than 414px)*/
+@media only screen and (min-width: 375px) and (max-width: 414px) {
+
+
+    #top-header-area,
+    .footer-menu {
+        display: none;
+    }
+
+    #slick-slider-area .slider-text h2 {
+        font-size: 13px;
+        padding-top: 20px;
+    }
+
+    #slick-slider-area .slider-text p {
+        font-size: 10px;
+        margin: 0;
+    }
+
+    #slick-slider-area .slider-text button {
+        margin: 8px;
+        width: 40%;
+        height: 30%;
+        font-size: 11px;
+    }
+
+    #slick-slider-area .left-angle1 {
+        top: 45%;
+        left: 10px;
+        font-size: 20px;
+        width: 25px;
+        height: 25px;
+        text-align: center;
+        line-height: 25px;
+    }
+
+    #slick-slider-area .right-angle1 {
+        top: 45%;
+        right: 10px;
+        font-size: 20px;
+        width: 25px;
+        height: 25px;
+        text-align: center;
+        line-height: 25px;
+    }
+
+    #testimonial-area p {
+        font-size: 14px;
+    }
+
+    #featured-area .child-featured-area {
+        width: 100%;
+    }
+
+    #featured-area .child-featured-area:hover .left-featured i {
+        color: #ffffff;
+        background: #df4a43;
+    }
+
+    #footer-area {
+        padding-bottom: 20px;
+    }
+
+    #footer-area .col-md-3 {
+        margin-bottom: 20px;
+    }
+
+    #copyright-area p {
+        font-size: 11px;
+    }
+}
+
+/* small devices (portrait phones, less than 576px)*/
+@media only screen and (min-width: 415px) and (max-width: 575.98px) {
+
+
+    #top-header-area,
+    .footer-menu {
+        display: none;
+    }
+
+    #slick-slider-area .slider-text h2 {
+        font-size: 14px;
+        padding-top: 20px;
+    }
+
+    #slick-slider-area .slider-text p {
+        font-size: 11px;
+        margin: 5px;
+    }
+
+    #slick-slider-area .slider-text button {
+        margin: 10px;
+        width: 40%;
+        height: 40%;
+        font-size: 14px;
+    }
+
+    #slick-slider-area .left-angle1 {
+        top: 45%;
+        left: 10px;
+        font-size: 20px;
+        width: 25px;
+        height: 25px;
+        text-align: center;
+        line-height: 25px;
+    }
+
+    #slick-slider-area .right-angle1 {
+        top: 45%;
+        right: 10px;
+        font-size: 20px;
+        width: 25px;
+        height: 25px;
+        text-align: center;
+        line-height: 25px;
+    }
+
+    #testimonial-area p {
+        font-size: 16px;
+    }
+
+    #featured-area .child-featured-area {
+        width: 100%;
+    }
+
+    #featured-area .child-featured-area:hover .left-featured i {
+        color: #ffffff;
+        background: #df4a43;
+    }
+
+    #footer-area {
+        padding-bottom: 20px;
+    }
+
+    #footer-area p {
+        font-size: 15px;
+        padding: 0 40% 0 0;
+    }
+
+    #footer-area ul li {
+        font-size: 15px;
+    }
+
+    #footer-area .col-md-3 {
+        margin-bottom: 20px;
+    }
+
+    #copyright-area p {
+        font-size: 16px;
+    }
+}
+
+
+/* Small devices (landscape phones, 576px and up)*/
+@media only screen and (min-width: 576px) and (max-width: 675px) {
+
+
+
+
+    #top-header-area,
+    .footer-menu {
+        display: none;
+    }
+
+
+    #slick-slider-area .slider-text h2 {
+        font-size: 16px;
+        padding-top: 20px;
+    }
+
+    #slick-slider-area .slider-text p {
+        font-size: 13px;
+        margin: 5px;
+    }
+
+    #slick-slider-area .slider-text button {
+        margin: 10px;
+        width: 40%;
+        height: 40%;
+        font-size: 16px;
+    }
+
+    #slick-slider-area .left-angle1 {
+        top: 50%;
+        left: 10px;
+        font-size: 20px;
+        width: 25px;
+        height: 25px;
+        text-align: center;
+        line-height: 25px;
+    }
+
+    #slick-slider-area .right-angle1 {
+        top: 50%;
+        right: 10px;
+        font-size: 20px;
+        width: 25px;
+        height: 25px;
+        text-align: center;
+        line-height: 25px;
+    }
+
+    #testimonial-area p {
+        font-size: 16px;
+    }
+
+    #featured-area .child-featured-area {
+        width: 100%;
+    }
+
+    #featured-area .child-featured-area:hover .left-featured i {
+        color: #ffffff;
+        background: #df4a43;
+    }
+
+    #footer-area {
+        padding-bottom: 20px;
+    }
+
+    #footer-area ul li {
+        font-size: 15px;
+    }
+
+    #footer-area .col-md-3 {
+        margin-bottom: 20px;
+    }
+
+    #copyright-area p {
+        font-size: 16px;
+    }
+
+
+}
+
+@media only screen and (min-width: 676px) and (max-width: 767.98px) {
+
+
+    #top-header-area,
+    .footer-menu {
+        display: none;
+    }
+
+
+    #slick-slider-area .slider-text h2 {
+        font-size: 20px;
+        padding-top: 30px;
+    }
+
+    #slick-slider-area .slider-text p {
+        font-size: 14px;
+        margin: 10px;
+    }
+
+    #slick-slider-area .slider-text button {
+        margin: 10px;
+        width: 40%;
+        height: 40%;
+        font-size: 16px;
+    }
+
+    #slick-slider-area .left-angle1 {
+        top: 55%;
+        left: 10px;
+        font-size: 20px;
+        width: 25px;
+        height: 25px;
+        text-align: center;
+        line-height: 25px;
+    }
+
+    #slick-slider-area .right-angle1 {
+        top: 55%;
+        right: 10px;
+        font-size: 20px;
+        width: 25px;
+        height: 25px;
+        text-align: center;
+        line-height: 25px;
+    }
+
+    #testimonial-area p {
+        font-size: 16px;
+    }
+
+    #featured-area .child-featured-area {
+        width: 100%;
+    }
+
+    #featured-area .child-featured-area:hover .left-featured i {
+        color: #ffffff;
+        background: #df4a43;
+    }
+
+    #footer-area {
+        padding-bottom: 20px;
+    }
+
+    #footer-area ul li {
+        font-size: 15px;
+    }
+
+    #footer-area .col-md-3 {
+        margin-bottom: 20px;
+    }
+
+    #copyright-area p {
+        font-size: 16px;
+    }
+
+
+}
+
+
+/* Medium devices (tablets, 768px and up)*/
+@media only screen and (min-width: 768px) and (max-width: 868px) {
+
+
+
+    #top-header-area,
+    .footer-menu {
+        display: none;
+    }
+
+
+    #slick-slider-area .slider-text h2 {
+        font-size: 25px;
+        padding-top: 30px;
+    }
+
+    #slick-slider-area .slider-text p {
+        font-size: 16px;
+        margin: 15px;
+    }
+
+    #slick-slider-area .slider-text button {
+        margin: 10px;
+        width: 40%;
+        height: 40%;
+        font-size: 16px;
+    }
+
+    #slick-slider-area .left-angle1 {
+        top: 60%;
+        left: 10px;
+        font-size: 20px;
+        width: 25px;
+        height: 25px;
+        text-align: center;
+        line-height: 25px;
+    }
+
+    #slick-slider-area .right-angle1 {
+        top: 60%;
+        right: 10px;
+        font-size: 20px;
+        width: 25px;
+        height: 25px;
+        text-align: center;
+        line-height: 25px;
+    }
+
+    #testimonial-area p {
+        font-size: 16px;
+    }
+
+    #featured-area .child-featured-area {
+        margin: auto;
+    }
+
+    #featured-area .child-featured-area:hover .left-featured i {
+        color: #ffffff;
+        background: #df4a43;
+    }
+
+    #footer-area {
+        padding-bottom: 20px;
+    }
+
+
+    #footer-area ul li {
+        font-size: 15px;
+    }
+
+    #footer-area .col-md-3 {
+        margin-bottom: 20px;
+    }
+
+    #copyright-area p {
+        font-size: 16px;
+    }
+
+
+}
+
+/* Large devices (desktops, 992px and up)*/
+@media only screen and (min-width: 869px) and (max-width: 1020px) {
+
+
+
+    #slick-slider-area .slider-text h2 {
+        font-size: 30px;
+        padding-top: 50px;
+    }
+
+    #slick-slider-area .slider-text p {
+        font-size: 16px;
+        margin: 20px;
+    }
+
+    #slick-slider-area .slider-text button {
+        margin: 10px;
+        width: 40%;
+        height: 30%;
+        font-size: 16px;
+    }
+
+    #slick-slider-area .left-angle1 {
+        top: 60%;
+        left: 10px;
+        font-size: 20px;
+        width: 25px;
+        height: 25px;
+        text-align: center;
+        line-height: 25px;
+    }
+
+    #slick-slider-area .right-angle1 {
+        top: 60%;
+        right: 10px;
+        font-size: 20px;
+        width: 25px;
+        height: 25px;
+        text-align: center;
+        line-height: 25px;
+    }
+
+    #testimonial-area p {
+        font-size: 16px;
+    }
+
+    #featured-area .child-featured-area {
+        margin: auto;
+    }
+
+    #featured-area .child-featured-area:hover .left-featured i {
+        color: #ffffff;
+        background: #df4a43;
+    }
+
+    #footer-area {
+        padding-bottom: 20px;
+    }
+
+    #footer-area ul li {
+        font-size: 15px;
+    }
+
+    #footer-area .col-md-3 {
+        margin-bottom: 20px;
+    }
+
+    #copyright-area p {
+        font-size: 16px;
+    }
+
+
+
+}
+
+/* Large devices (desktops, 992px and up)*/
+@media only screen and (min-width: 1021px) and (max-width: 1200px) {
+
+
+
+    #slick-slider-area .slider-text h2 {
+        font-size: 30px;
+        padding-top: 50px;
+    }
+
+    #slick-slider-area .slider-text p {
+        font-size: 16px;
+        margin: 20px;
+    }
+
+    #slick-slider-area .slider-text button {
+        margin: 10px;
+        width: 30%;
+        height: 30%;
+        font-size: 16px;
+    }
+
+    #slick-slider-area .left-angle1 {
+        top: 60%;
+        left: 10px;
+        font-size: 20px;
+        width: 25px;
+        height: 25px;
+        text-align: center;
+        line-height: 25px;
+    }
+
+    #slick-slider-area .right-angle1 {
+        top: 60%;
+        right: 10px;
+        font-size: 20px;
+        width: 25px;
+        height: 25px;
+        text-align: center;
+        line-height: 25px;
+    }
+
+    #testimonial-area p {
+        font-size: 16px;
+    }
+
+    #featured-area .child-featured-area {
+        margin: auto;
+    }
+
+    #featured-area .child-featured-area:hover .left-featured i {
+        color: #ffffff;
+        background: #df4a43;
+    }
+
+    #footer-area {
+        padding-bottom: 20px;
+    }
+
+    #footer-area ul li {
+        font-size: 15px;
+    }
+
+    #footer-area .col-md-3 {
+        margin-bottom: 20px;
+    }
+
+    #copyright-area p {
+        font-size: 16px;
+    }
+
+    #copyright-area ul li a {
+        display: block;
+        color: #cbcbcd;
+        font-size: 13px;
+        padding: 0px 15px;
+        text-decoration: none;
+
+        /* Extra large devices (large desktops, 1200px and up)*/
+        @media (min-width: 1201px) {}
